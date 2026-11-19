@@ -1,0 +1,10 @@
+[
+    {
+        "table": "housing",
+        "description": "Real housing market dataset with 20640 rows. Columns: medinc, houseage, averooms, avebedrms, population, aveoccup, latitude, longitude, medhouseval. medinc is median income, houseage is median house age, averooms is average rooms, population is block population, medhouseval is median house value (in $100,000s)."
+    },
+    {
+        "table": "business_rules",
+        "description": "Always use the table name 'housing' and exact lowercase column names. Use AVG() for averages, MAX() for highest, and MIN() for lowest."
+    }
+]
